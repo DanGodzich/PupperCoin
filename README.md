@@ -24,4 +24,6 @@ However, when trying to go into the Kovan Test Network and executing the contrac
 
 I was not sure if this was because of a lack of test eth in my account or another reason. So while the contracts seem viable, I will need more work to make them deploy onto wallet platforms.
 
+I have included the solidity files used, PupperCoin.sol and Crowdsale.sol
+
 
